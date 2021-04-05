@@ -10,7 +10,7 @@ else
   sleep 5
 fi
 
-cd /home/ec2-user/
+cd /home/ec2-user/jenkins/
 sudo docker build -t gyunny ./
 sudo docker run -d -p 8080:8080 gyunny  # Docker Container 생성
 sudo docker run -d -p 8081:8080 gyunny  # Docker Container 생성
