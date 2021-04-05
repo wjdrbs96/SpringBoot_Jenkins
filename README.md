@@ -12,7 +12,7 @@
 ## `사용된 도구`
 
 - `Spring Boot`
-- `EC2 Linux2 2대(1대 프리티어, 1대 RAM 16G)`
+- `EC2 Linux2 2대(운영용 프리티어 1대, 젠킨스 빌드용 RAM 16G 1대)`
 - `Jenkins(CI)`
 - `CodeDeploy(CD)`
 - `S3 Bucket`
