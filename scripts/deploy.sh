@@ -1,4 +1,3 @@
-
 echo "> 현재 실행 중인 Docker 컨테이너 pid 확인" >> /home/ec2-user/deploy.log
 CURRENT_PID=$(sudo docker container ls -q)
 
