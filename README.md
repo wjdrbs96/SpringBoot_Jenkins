@@ -11,6 +11,7 @@
 
 ## `사용된 도구`
 
+- `Spring Boot`
 - `EC2 Linux2 2대(1대 프리티어, 1대 RAM 16G)`
 - `Jenkins(CI)`
 - `CodeDeploy(CD)`
