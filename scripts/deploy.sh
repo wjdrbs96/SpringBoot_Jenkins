@@ -11,6 +11,6 @@ else
 fi
 
 cd /home/ec2-user/jenkins/
-sudo docker build -t gyunny ./
-sudo docker run -d -p 8080:8080 gyunny  # Docker Container 생성
-sudo docker run -d -p 8081:8080 gyunny  # Docker Container 생성
+sudo docker build -t wjdrbs96 ./
+sudo docker run -d -p 8080:8080 wjdrbs96  # Docker Container 생성
+sudo docker run -d -p 8081:8080 wjdrbs96  # Docker Container 생성
