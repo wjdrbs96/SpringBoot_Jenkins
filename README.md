@@ -1,11 +1,11 @@
 # `CI/CD 하기`
 
-자세한 것은 [여기](https://github.com/wjdrbs96/Today-I-Learn/blob/master/AWS/Jenkins%EB%A1%9C%20CI%20%ED%95%98%EA%B8%B0.md) 에서 확인하시길 바랍니다.
+CI/CD 과정 정리는 [여기](https://devlog-wjdrbs96.tistory.com/295?category=885022) 에서 확인하시길 바랍니다.
 
-![ar](https://camo.githubusercontent.com/bf19fbedda2e819f53f544d13b9b97e79bbea7a4ade78fce02f5134e4e15c308/68747470733a2f2f74312e6461756d63646e2e6e65742f6366696c652f746973746f72792f393941374233344535414339454634373230)
+![스크린샷 2021-04-26 오전 9 20 16](https://user-images.githubusercontent.com/45676906/116014516-9f0e6200-a670-11eb-8d95-bb81a88315aa.png)
 
-- CI Jenkins (Docker Container)
-- CD CodeDeploy
+- `CI Jenkins (Docker Container)`
+- `CD CodeDeploy`
 
 <br>
 
